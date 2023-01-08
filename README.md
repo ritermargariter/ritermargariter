@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **Responsive Web Design, PostgreSQL** or how to cook pilaf 
 
-- 📚 I love reading books on personal development & financial literacy. 
+- 📚 I love reading books on **personal development** & **financial literacy**. 
 
-- ✈️ I love traveling too. I have been on solo trips to Egypt in 2021 and to Hyderabad, India in 2020.
+- ✈️ I love **traveling** too. I have been on solo trips to Egypt in 2021 and to Hyderabad, India in 2020.
 
 - 🎉 Fun Fact: 我正在努力学习中文
 
